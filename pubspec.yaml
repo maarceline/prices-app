@@ -9,6 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  provider: ^6.1.2
 
 dev_dependencies:
   flutter_test:
@@ -17,3 +18,7 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+  assets: 
+  - /Users/marche/Documents/FlutterProjects/prices_app/lib/assets/logo/prices_logo.png
+  - /Users/marche/Documents/FlutterProjects/prices_app/lib/assets/logo/find.png
